@@ -10,7 +10,7 @@ Customizable forms saver
 
 (The MIT License)
 
-Copyright (c) 2011 Federico Spnii &lt;federico.spini@gmail.com&gt;
+Copyright (c) 2012 Federico Spnii &lt;federico.spini@gmail.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
